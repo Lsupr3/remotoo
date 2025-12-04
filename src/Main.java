@@ -31,9 +31,11 @@ public class Main {
                 }
             }
             System.out.println("proyecto modificado por otros programadores 04/12/2025");
+            System.out.println("proyecto modificado desde github");
 
         }catch (Exception e){
             System.out.println(e.getMessage());
+        
         }
 
     }

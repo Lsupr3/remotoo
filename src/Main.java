@@ -27,7 +27,7 @@ public class Main {
                 }
                 for (int i = 0; i < popo; i++) {
                     System.out.println("Zzz" + i++);
-                    System.out.println("todos los popochitos estan durmiendo");
+                    System.out.println("todos lo popochitos estan durmiendo");
                 }
             }
             System.out.println("proyecto modificado por otros programadores 04/12/2025");
@@ -37,6 +37,5 @@ public class Main {
             System.out.println(e.getMessage());
         
         }
-
     }
 }
